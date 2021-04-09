@@ -1,0 +1,7 @@
+Bu hypercasual türünde  bir oyundur.Oyun amacımız aynı renklerden yanmadan yukarı doğru çıkmak.Oyun içi görüntüler "game pictures " adlı dosyada mevcuttur.Oyunnun kendisi output dosyasında mevcuttur.
+
+
+
+
+Oyun içi kontroller
+space : zıplama
